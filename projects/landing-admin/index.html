@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Business Landing Page</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-gray-50 text-gray-800">
+
+    <!-- Navbar -->
+    <nav class="bg-white shadow-md">
+        <div class="container mx-auto px-6 py-4 flex justify-between items-center">
+            <a href="#" class="text-2xl font-bold text-blue-600">BrandName</a>
+            <div class="hidden md:flex space-x-6">
+                <a href="#features" class="hover:text-blue-600">Features</a>
+                <a href="#about" class="hover:text-blue-600">About</a>
+                <a href="#contact" class="hover:text-blue-600">Contact</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header class="bg-blue-600 text-white text-center py-20">
+        <div class="container mx-auto px-6">
+            <h1 class="text-4xl md:text-6xl font-bold mb-4">Grow Your Business with Us</h1>
+            <p class="text-lg md:text-xl mb-8">We provide the best solutions for your company.</p>
+            <a href="#contact"
+                class="bg-white text-blue-600 font-bold py-3 px-8 rounded-full hover:bg-gray-100 transition">Get
+                Started</a>
+        </div>
+    </header>
+
+    <!-- Features Section -->
+    <section id="features" class="py-20 container mx-auto px-6">
+        <h2 class="text-3xl font-bold text-center mb-12">Our Features</h2>
+        <div class="grid md:grid-cols-3 gap-8">
+            <div class="bg-white p-6 rounded-lg shadow-md text-center">
+                <div class="text-blue-600 text-4xl mb-4">🚀</div>
+                <h3 class="text-xl font-bold mb-2">Fast Performance</h3>
+                <p>Optimized for speed and efficiency.</p>
+            </div>
+            <div class="bg-white p-6 rounded-lg shadow-md text-center">
+                <div class="text-blue-600 text-4xl mb-4">🔒</div>
+                <h3 class="text-xl font-bold mb-2">Secure</h3>
+                <p>Your data is safe with us.</p>
+            </div>
+            <div class="bg-white p-6 rounded-lg shadow-md text-center">
+                <div class="text-blue-600 text-4xl mb-4">💡</div>
+                <h3 class="text-xl font-bold mb-2">Innovative</h3>
+                <p>Latest technology at your fingertips.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Form -->
+    <section id="contact" class="bg-gray-100 py-20">
+        <div class="container mx-auto px-6 max-w-lg">
+            <h2 class="text-3xl font-bold text-center mb-8">Contact Us</h2>
+            <form class="bg-white p-8 rounded-lg shadow-md">
+                <div class="mb-4">
+                    <label class="block text-gray-700 font-bold mb-2">Name</label>
+                    <input type="text"
+                        class="w-full px-3 py-2 border rounded-lg focus:outline-none focus:border-blue-500"
+                        placeholder="Your Name">
+                </div>
+                <div class="mb-4">
+                    <label class="block text-gray-700 font-bold mb-2">Email</label>
+                    <input type="email"
+                        class="w-full px-3 py-2 border rounded-lg focus:outline-none focus:border-blue-500"
+                        placeholder="your@email.com">
+                </div>
+                <div class="mb-4">
+                    <label class="block text-gray-700 font-bold mb-2">Message</label>
+                    <textarea class="w-full px-3 py-2 border rounded-lg focus:outline-none focus:border-blue-500"
+                        rows="4" placeholder="How can we help?"></textarea>
+                </div>
+                <button type="submit"
+                    class="w-full bg-blue-600 text-white font-bold py-3 rounded-lg hover:bg-blue-700 transition">Send
+                    Message</button>
+            </form>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-white text-center py-6">
+        <p>&copy; 2024 BrandName. All rights reserved.</p>
+    </footer>
+
+</body>
+
+</html>

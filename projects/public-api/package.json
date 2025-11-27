@@ -1,0 +1,23 @@
+{
+    "name": "public-api",
+    "version": "1.0.0",
+    "description": "A simple public API example",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "nodemon index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.18.2",
+        "express-rate-limit": "^7.1.0",
+        "swagger-ui-express": "^5.0.0",
+        "yamljs": "^0.3.0"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.1"
+    }
+}
