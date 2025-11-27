@@ -1,24 +1,27 @@
-# Non-Disclosure Agreement (NDA)
+# Gizlilik Sözleşmesi (NDA)
 
-**Date:** [Date]
+**Tarih:** [Tarih]
 
-**Disclosing Party:** [Client Name]
-**Receiving Party:** [Your Name]
+**Bilgiyi Açıklayan Taraf:** [Müşteri Adı]
+**Bilgiyi Alan Taraf:** [Adınız Soyadınız]
 
-## 1. Purpose
-The Disclosing Party intends to disclose certain confidential information to the Receiving Party for the purpose of [Project Description/Purpose].
+## 1. Amaç
+Açıklayan Taraf, [Proje Tanımı/Amacı] amacıyla Alan Taraf'a belirli gizli bilgileri açıklamayı niyet etmektedir.
 
-## 2. Confidential Information
-"Confidential Information" shall include all data, materials, products, technology, computer programs, specifications, manuals, business plans, software, marketing plans, business plans, financial information, and other information disclosed or submitted, orally, in writing, or by any other media, to the Receiving Party by the Disclosing Party.
+## 2. Gizli Bilgi Tanımı
+"Gizli Bilgi"; Açıklayan Tarafça Alan Taraf'a sözlü, yazılı veya başka bir ortamda iletilen her türlü veri, ürün, teknoloji, yazılım, iş planı, pazarlama stratejisi ve finansal bilgiyi kapsar.
 
-## 3. Obligations
-The Receiving Party agrees that it will not disclose, divulge, reveal, report or use, for any purpose, any Confidential Information which the Receiving Party has obtained, except as authorized by the Disclosing Party or as required by law.
+## 3. Yükümlülükler
+Alan Taraf, edindiği Gizli Bilgileri:
+- Üçüncü şahıslara açıklamamayı,
+- Sadece projenin yürütülmesi amacıyla kullanmayı,
+- Yasal zorunluluklar haricinde ifşa etmemeyi kabul ve taahhüt eder.
 
-## 4. Term
-The obligations of this Agreement shall survive indefinitely/for a period of [Number] years from the date of disclosure.
+## 4. Süre
+İşbu sözleşme kapsamındaki gizlilik yükümlülüğü, bilginin ifşa tarihinden itibaren [Yıl Sayısı] yıl / süresiz olarak devam edecektir.
 
 ---
 
-**Disclosing Party Signature:** __________________________  **Date:** ____________
+**Açıklayan Taraf İmza:** __________________________  **Tarih:** ____________
 
-**Receiving Party Signature:** __________________________  **Date:** ____________
+**Alan Taraf İmza:** __________________________  **Tarih:** ____________

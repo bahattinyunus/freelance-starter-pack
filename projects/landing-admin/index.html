@@ -1,92 +1,130 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="tr">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Business Landing Page</title>
+    <title>Kurumsal Landing Page</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+    </style>
 </head>
 
 <body class="bg-gray-50 text-gray-800">
 
     <!-- Navbar -->
-    <nav class="bg-white shadow-md">
+    <nav class="bg-white shadow-md sticky top-0 z-50">
         <div class="container mx-auto px-6 py-4 flex justify-between items-center">
-            <a href="#" class="text-2xl font-bold text-blue-600">BrandName</a>
+            <a href="#" class="text-2xl font-bold text-blue-600">MarkaAdı</a>
             <div class="hidden md:flex space-x-6">
-                <a href="#features" class="hover:text-blue-600">Features</a>
-                <a href="#about" class="hover:text-blue-600">About</a>
-                <a href="#contact" class="hover:text-blue-600">Contact</a>
+                <a href="#features" class="hover:text-blue-600 font-medium">Özellikler</a>
+                <a href="#testimonials" class="hover:text-blue-600 font-medium">Yorumlar</a>
+                <a href="#contact" class="hover:text-blue-600 font-medium">İletişim</a>
             </div>
         </div>
     </nav>
 
     <!-- Hero Section -->
-    <header class="bg-blue-600 text-white text-center py-20">
+    <header class="bg-blue-600 text-white text-center py-24">
         <div class="container mx-auto px-6">
-            <h1 class="text-4xl md:text-6xl font-bold mb-4">Grow Your Business with Us</h1>
-            <p class="text-lg md:text-xl mb-8">We provide the best solutions for your company.</p>
+            <h1 class="text-4xl md:text-6xl font-bold mb-6">İşinizi Bizimle Büyütün</h1>
+            <p class="text-lg md:text-xl mb-10 max-w-2xl mx-auto opacity-90">Şirketiniz için en iyi dijital çözümleri
+                sunuyoruz. Hızlı, güvenli ve modern teknolojilerle tanışın.</p>
             <a href="#contact"
-                class="bg-white text-blue-600 font-bold py-3 px-8 rounded-full hover:bg-gray-100 transition">Get
-                Started</a>
+                class="bg-white text-blue-600 font-bold py-4 px-10 rounded-full hover:bg-gray-100 transition shadow-lg">Hemen
+                Başlayın</a>
         </div>
     </header>
 
     <!-- Features Section -->
-    <section id="features" class="py-20 container mx-auto px-6">
-        <h2 class="text-3xl font-bold text-center mb-12">Our Features</h2>
-        <div class="grid md:grid-cols-3 gap-8">
-            <div class="bg-white p-6 rounded-lg shadow-md text-center">
-                <div class="text-blue-600 text-4xl mb-4">🚀</div>
-                <h3 class="text-xl font-bold mb-2">Fast Performance</h3>
-                <p>Optimized for speed and efficiency.</p>
+    <section id="features" class="py-24 container mx-auto px-6">
+        <h2 class="text-3xl font-bold text-center mb-16 text-gray-900">Öne Çıkan Özellikler</h2>
+        <div class="grid md:grid-cols-3 gap-10">
+            <div class="bg-white p-8 rounded-xl shadow-lg text-center hover:shadow-xl transition">
+                <div class="text-blue-600 text-5xl mb-6">🚀</div>
+                <h3 class="text-xl font-bold mb-3">Yüksek Performans</h3>
+                <p class="text-gray-600">Web siteniz ışık hızında açılsın, müşterileriniz beklemesin.</p>
             </div>
-            <div class="bg-white p-6 rounded-lg shadow-md text-center">
-                <div class="text-blue-600 text-4xl mb-4">🔒</div>
-                <h3 class="text-xl font-bold mb-2">Secure</h3>
-                <p>Your data is safe with us.</p>
+            <div class="bg-white p-8 rounded-xl shadow-lg text-center hover:shadow-xl transition">
+                <div class="text-blue-600 text-5xl mb-6">🔒</div>
+                <h3 class="text-xl font-bold mb-3">Tam Güvenlik</h3>
+                <p class="text-gray-600">Verileriniz en güncel güvenlik protokolleri ile koruma altında.</p>
             </div>
-            <div class="bg-white p-6 rounded-lg shadow-md text-center">
-                <div class="text-blue-600 text-4xl mb-4">💡</div>
-                <h3 class="text-xl font-bold mb-2">Innovative</h3>
-                <p>Latest technology at your fingertips.</p>
+            <div class="bg-white p-8 rounded-xl shadow-lg text-center hover:shadow-xl transition">
+                <div class="text-blue-600 text-5xl mb-6">💡</div>
+                <h3 class="text-xl font-bold mb-3">Yenilikçi Tasarım</h3>
+                <p class="text-gray-600">Kullanıcı deneyimini ön planda tutan modern arayüzler.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials Section (New) -->
+    <section id="testimonials" class="bg-gray-100 py-24">
+        <div class="container mx-auto px-6">
+            <h2 class="text-3xl font-bold text-center mb-16 text-gray-900">Müşterilerimiz Ne Diyor?</h2>
+            <div class="grid md:grid-cols-2 gap-8">
+                <div class="bg-white p-8 rounded-xl shadow-md">
+                    <p class="text-gray-600 italic mb-4">"MarkaAdı ile çalışmak harikaydı. Projemizi zamanından önce
+                        teslim ettiler ve sonuç mükemmeldi."</p>
+                    <div class="flex items-center">
+                        <div class="w-10 h-10 bg-gray-300 rounded-full mr-4"></div>
+                        <div>
+                            <h4 class="font-bold text-gray-900">Ahmet Yılmaz</h4>
+                            <p class="text-sm text-gray-500">CEO, Teknoloji A.Ş.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="bg-white p-8 rounded-xl shadow-md">
+                    <p class="text-gray-600 italic mb-4">"Satışlarımız %50 arttı. Ekibin ilgisi ve desteği için çok
+                        teşekkür ederim."</p>
+                    <div class="flex items-center">
+                        <div class="w-10 h-10 bg-gray-300 rounded-full mr-4"></div>
+                        <div>
+                            <h4 class="font-bold text-gray-900">Ayşe Demir</h4>
+                            <p class="text-sm text-gray-500">Pazarlama Müdürü, Moda Butik</p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
 
     <!-- Contact Form -->
-    <section id="contact" class="bg-gray-100 py-20">
+    <section id="contact" class="py-24 bg-white">
         <div class="container mx-auto px-6 max-w-lg">
-            <h2 class="text-3xl font-bold text-center mb-8">Contact Us</h2>
-            <form class="bg-white p-8 rounded-lg shadow-md">
-                <div class="mb-4">
-                    <label class="block text-gray-700 font-bold mb-2">Name</label>
+            <h2 class="text-3xl font-bold text-center mb-8 text-gray-900">İletişime Geçin</h2>
+            <form class="bg-gray-50 p-8 rounded-xl shadow-lg border border-gray-100">
+                <div class="mb-6">
+                    <label class="block text-gray-700 font-bold mb-2">Ad Soyad</label>
                     <input type="text"
-                        class="w-full px-3 py-2 border rounded-lg focus:outline-none focus:border-blue-500"
-                        placeholder="Your Name">
+                        class="w-full px-4 py-3 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 transition"
+                        placeholder="Adınız Soyadınız">
                 </div>
-                <div class="mb-4">
-                    <label class="block text-gray-700 font-bold mb-2">Email</label>
+                <div class="mb-6">
+                    <label class="block text-gray-700 font-bold mb-2">E-posta</label>
                     <input type="email"
-                        class="w-full px-3 py-2 border rounded-lg focus:outline-none focus:border-blue-500"
-                        placeholder="your@email.com">
+                        class="w-full px-4 py-3 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 transition"
+                        placeholder="ornek@email.com">
                 </div>
-                <div class="mb-4">
-                    <label class="block text-gray-700 font-bold mb-2">Message</label>
-                    <textarea class="w-full px-3 py-2 border rounded-lg focus:outline-none focus:border-blue-500"
-                        rows="4" placeholder="How can we help?"></textarea>
+                <div class="mb-6">
+                    <label class="block text-gray-700 font-bold mb-2">Mesajınız</label>
+                    <textarea
+                        class="w-full px-4 py-3 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 transition"
+                        rows="4" placeholder="Size nasıl yardımcı olabiliriz?"></textarea>
                 </div>
                 <button type="submit"
-                    class="w-full bg-blue-600 text-white font-bold py-3 rounded-lg hover:bg-blue-700 transition">Send
-                    Message</button>
+                    class="w-full bg-blue-600 text-white font-bold py-3 rounded-lg hover:bg-blue-700 transition shadow-md">Gönder</button>
             </form>
         </div>
     </section>
 
     <!-- Footer -->
-    <footer class="bg-gray-800 text-white text-center py-6">
-        <p>&copy; 2024 BrandName. All rights reserved.</p>
+    <footer class="bg-gray-900 text-white text-center py-8">
+        <p>&copy; 2024 MarkaAdı. Tüm hakları saklıdır.</p>
     </footer>
 
 </body>

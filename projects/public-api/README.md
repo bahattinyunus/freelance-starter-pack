@@ -1,21 +1,23 @@
-# Public API Example
+# Public API Örneği
 
-A simple Node.js API demonstrating REST principles, rate limiting, and CORS.
+REST prensiplerini, hız sınırlamayı (rate limiting) ve CORS yapısını gösteren basit bir Node.js API projesi.
 
-## Features
-- **Express.js**: Fast web framework.
-- **Rate Limiting**: Protects against abuse.
-- **CORS**: Enabled for cross-origin requests.
+## Özellikler
+- **Express.js:** Hızlı ve minimalist web çatısı.
+- **Rate Limiting:** API'yi kötü niyetli kullanımlara karşı korur.
+- **CORS:** Farklı domainlerden gelen isteklere izin verir.
+- **Mock Veri:** Kullanıcılar ve Ürünler için örnek veriler içerir.
 
-## Setup
-1.  Install dependencies:
+## Kurulum
+1.  Bağımlılıkları yükleyin:
     ```bash
     npm install
     ```
-2.  Start the server:
+2.  Sunucuyu başlatın:
     ```bash
     npm run dev
     ```
-3.  Test endpoints:
+3.  Endpointleri test edin:
     - `GET http://localhost:3000/`
     - `GET http://localhost:3000/api/users`
+    - `GET http://localhost:3000/api/products`

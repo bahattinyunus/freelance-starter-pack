@@ -1,75 +1,93 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="tr">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Admin Panel</title>
+    <title>Yönetici Paneli</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+    </style>
 </head>
 
 <body class="bg-gray-100">
 
     <div class="flex h-screen">
         <!-- Sidebar -->
-        <aside class="w-64 bg-gray-800 text-white flex flex-col">
-            <div class="p-6 text-2xl font-bold">AdminPanel</div>
-            <nav class="flex-1 px-4 space-y-2">
-                <a href="#" class="block py-2.5 px-4 rounded hover:bg-gray-700 bg-gray-700">Dashboard</a>
-                <a href="#" class="block py-2.5 px-4 rounded hover:bg-gray-700">Messages</a>
-                <a href="#" class="block py-2.5 px-4 rounded hover:bg-gray-700">Settings</a>
+        <aside class="w-64 bg-gray-900 text-white flex flex-col shadow-xl">
+            <div class="p-6 text-2xl font-bold border-b border-gray-800">AdminPanel</div>
+            <nav class="flex-1 px-4 space-y-2 py-6">
+                <a href="#" class="block py-3 px-4 rounded-lg hover:bg-gray-800 bg-gray-800 transition">Kontrol
+                    Paneli</a>
+                <a href="#" class="block py-3 px-4 rounded-lg hover:bg-gray-800 transition">Mesajlar</a>
+                <a href="#" class="block py-3 px-4 rounded-lg hover:bg-gray-800 transition">Ayarlar</a>
             </nav>
-            <div class="p-4">
-                <a href="index.html" class="block text-center py-2 px-4 bg-red-600 rounded hover:bg-red-700">Logout</a>
+            <div class="p-4 border-t border-gray-800">
+                <a href="index.html"
+                    class="block text-center py-2 px-4 bg-red-600 rounded-lg hover:bg-red-700 transition shadow-md">Çıkış
+                    Yap</a>
             </div>
         </aside>
 
         <!-- Main Content -->
         <main class="flex-1 p-8 overflow-y-auto">
-            <h1 class="text-3xl font-bold mb-8">Dashboard</h1>
+            <h1 class="text-3xl font-bold mb-8 text-gray-800">Kontrol Paneli</h1>
 
             <!-- Stats Cards -->
             <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
-                <div class="bg-white p-6 rounded-lg shadow">
-                    <h3 class="text-gray-500 text-sm font-bold uppercase">Total Visits</h3>
-                    <p class="text-3xl font-bold text-gray-800">12,345</p>
+                <div class="bg-white p-6 rounded-xl shadow-sm border border-gray-100">
+                    <h3 class="text-gray-500 text-xs font-bold uppercase tracking-wider">Toplam Ziyaret</h3>
+                    <p class="text-3xl font-bold text-gray-800 mt-2">12,345</p>
                 </div>
-                <div class="bg-white p-6 rounded-lg shadow">
-                    <h3 class="text-gray-500 text-sm font-bold uppercase">New Messages</h3>
-                    <p class="text-3xl font-bold text-gray-800">42</p>
+                <div class="bg-white p-6 rounded-xl shadow-sm border border-gray-100">
+                    <h3 class="text-gray-500 text-xs font-bold uppercase tracking-wider">Yeni Mesajlar</h3>
+                    <p class="text-3xl font-bold text-gray-800 mt-2">42</p>
                 </div>
-                <div class="bg-white p-6 rounded-lg shadow">
-                    <h3 class="text-gray-500 text-sm font-bold uppercase">Sales</h3>
-                    <p class="text-3xl font-bold text-gray-800">$1,234</p>
+                <div class="bg-white p-6 rounded-xl shadow-sm border border-gray-100">
+                    <h3 class="text-gray-500 text-xs font-bold uppercase tracking-wider">Satışlar</h3>
+                    <p class="text-3xl font-bold text-gray-800 mt-2">₺1,234</p>
                 </div>
             </div>
 
             <!-- Recent Messages Table -->
-            <div class="bg-white rounded-lg shadow overflow-hidden">
-                <div class="px-6 py-4 border-b">
-                    <h2 class="font-bold text-gray-800">Recent Messages</h2>
+            <div class="bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden">
+                <div class="px-6 py-4 border-b border-gray-100 bg-gray-50">
+                    <h2 class="font-bold text-gray-800">Son Mesajlar</h2>
                 </div>
                 <table class="w-full text-left border-collapse">
                     <thead>
                         <tr class="bg-gray-50">
-                            <th class="px-6 py-3 text-sm font-bold text-gray-600 uppercase">Name</th>
-                            <th class="px-6 py-3 text-sm font-bold text-gray-600 uppercase">Email</th>
-                            <th class="px-6 py-3 text-sm font-bold text-gray-600 uppercase">Date</th>
-                            <th class="px-6 py-3 text-sm font-bold text-gray-600 uppercase">Action</th>
+                            <th class="px-6 py-3 text-xs font-bold text-gray-500 uppercase tracking-wider">İsim</th>
+                            <th class="px-6 py-3 text-xs font-bold text-gray-500 uppercase tracking-wider">E-posta</th>
+                            <th class="px-6 py-3 text-xs font-bold text-gray-500 uppercase tracking-wider">Tarih</th>
+                            <th class="px-6 py-3 text-xs font-bold text-gray-500 uppercase tracking-wider">Durum</th>
+                            <th class="px-6 py-3 text-xs font-bold text-gray-500 uppercase tracking-wider">İşlem</th>
                         </tr>
                     </thead>
-                    <tbody class="divide-y divide-gray-200">
-                        <tr>
-                            <td class="px-6 py-4">John Doe</td>
-                            <td class="px-6 py-4">john@example.com</td>
-                            <td class="px-6 py-4">Oct 24, 2024</td>
-                            <td class="px-6 py-4"><button class="text-blue-600 hover:underline">View</button></td>
+                    <tbody class="divide-y divide-gray-100">
+                        <tr class="hover:bg-gray-50 transition">
+                            <td class="px-6 py-4 font-medium text-gray-900">Ahmet Yılmaz</td>
+                            <td class="px-6 py-4 text-gray-600">ahmet@ornek.com</td>
+                            <td class="px-6 py-4 text-gray-600">24 Eki 2024</td>
+                            <td class="px-6 py-4"><span
+                                    class="px-2 py-1 text-xs font-bold text-green-700 bg-green-100 rounded-full">Okundu</span>
+                            </td>
+                            <td class="px-6 py-4"><button
+                                    class="text-blue-600 hover:text-blue-800 font-medium">Görüntüle</button></td>
                         </tr>
-                        <tr>
-                            <td class="px-6 py-4">Jane Smith</td>
-                            <td class="px-6 py-4">jane@example.com</td>
-                            <td class="px-6 py-4">Oct 23, 2024</td>
-                            <td class="px-6 py-4"><button class="text-blue-600 hover:underline">View</button></td>
+                        <tr class="hover:bg-gray-50 transition">
+                            <td class="px-6 py-4 font-medium text-gray-900">Ayşe Demir</td>
+                            <td class="px-6 py-4 text-gray-600">ayse@ornek.com</td>
+                            <td class="px-6 py-4 text-gray-600">23 Eki 2024</td>
+                            <td class="px-6 py-4"><span
+                                    class="px-2 py-1 text-xs font-bold text-yellow-700 bg-yellow-100 rounded-full">Bekliyor</span>
+                            </td>
+                            <td class="px-6 py-4"><button
+                                    class="text-blue-600 hover:text-blue-800 font-medium">Görüntüle</button></td>
                         </tr>
                     </tbody>
                 </table>

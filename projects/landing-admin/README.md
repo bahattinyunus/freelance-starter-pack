@@ -1,15 +1,15 @@
-# Landing Page + Admin Panel
+# Landing Page + Admin Paneli
 
-This is a starter project for a small business website. It includes a public landing page and a private admin dashboard.
+Küçük işletmeler için hazır web sitesi şablonu. Halka açık bir tanıtım sayfası (Landing Page) ve özel bir yönetici paneli içerir.
 
-## Tech Stack
+## Teknoloji Yığını
 - **HTML5**
-- **Tailwind CSS** (via CDN for quick setup)
+- **Tailwind CSS** (CDN üzerinden hızlı kurulum)
 
-## How to Use
-1.  **Landing Page**: Open `index.html` in your browser.
-2.  **Admin Panel**: Open `admin.html` in your browser.
+## Nasıl Kullanılır?
+1.  **Landing Page**: `index.html` dosyasını tarayıcınızda açın.
+2.  **Yönetici Paneli**: `admin.html` dosyasını tarayıcınızda açın.
 
-## Deployment
-- You can deploy this instantly to **Netlify** or **Vercel** by dragging and dropping this folder.
-- For a real admin backend, you would need to integrate with a service like Firebase or build a backend API.
+## Dağıtım (Deploy)
+- Bu klasörü sürükleyip bırakarak **Netlify** veya **Vercel** üzerinde anında yayınlayabilirsiniz.
+- Gerçek bir yönetici paneli işlevi için Firebase veya özel bir backend API entegrasyonu yapmanız gerekir.

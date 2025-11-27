@@ -1,38 +1,38 @@
-# Task Manager App
+# Görev Yöneticisi Uygulaması
 
-A simple CRUD application to demonstrate full-stack development skills.
+Full-stack geliştirme becerilerinizi göstermek için basit bir CRUD (Ekle/Oku/Güncelle/Sil) uygulaması.
 
-## Tech Stack
-- **Frontend**: React
-- **Backend**: Node.js + Express
-- **Database**: MongoDB (Optional, currently using in-memory mock)
+## Teknoloji Yığını
+- **Frontend:** React
+- **Backend:** Node.js + Express
+- **Veritabanı:** MongoDB (Opsiyonel, şu an mock veri kullanılıyor)
 
-## Setup
+## Kurulum
 
-### Client
-1.  Navigate to `client/`:
+### İstemci (Client)
+1.  `client/` klasörüne gidin:
     ```bash
     cd client
     ```
-2.  Install dependencies:
+2.  Bağımlılıkları yükleyin:
     ```bash
     npm install
     ```
-3.  Start the app:
+3.  Uygulamayı başlatın:
     ```bash
     npm start
     ```
 
-### Server
-1.  Navigate to `server/`:
+### Sunucu (Server)
+1.  `server/` klasörüne gidin:
     ```bash
     cd server
     ```
-2.  Install dependencies:
+2.  Bağımlılıkları yükleyin:
     ```bash
     npm install
     ```
-3.  Start the server:
+3.  Sunucuyu başlatın:
     ```bash
     npm run dev
     ```

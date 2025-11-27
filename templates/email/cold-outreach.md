@@ -1,40 +1,38 @@
-# Cold Outreach Email Templates
+# Soğuk Satış E-posta Şablonları
 
-## Template 1: The "Helpful" Approach
+## Şablon 1: "Fayda Odaklı" Yaklaşım
 
-**Subject:** Idea for [Client Company Name]
+**Konu:** [Müşteri Firma Adı] için bir fikir / proje önerisi
 
-Hi [Client Name],
+Merhaba [Müşteri Adı],
 
-I've been following [Client Company Name] for a while and love what you're doing with [Specific Project/Product].
+[Müşteri Firma Adı]'nın çalışmalarını bir süredir takip ediyorum, özellikle [Spesifik Proje/Ürün] konusundaki atılımlarınız çok etkileyici.
 
-I noticed that [Problem/Opportunity you identified]. I specialize in [Your Skill] and recently helped a similar client achieve [Result].
+İncelemelerim sırasında [Tespit ettiğiniz problem veya fırsat] konusunda size değer katabilecek bir fikrim oluştu. Ben [Uzmanlık Alanınız] konusunda uzmanlaşmış bir freelance geliştiriciyim ve benzer bir projede [Benzer Müşteri] için [Elde edilen sonuç - örn: %30 hız artışı] sağladım.
 
-I'd love to share a few ideas on how you could improve [Specific Area] to get [Benefit]. No strings attached.
+[Spesifik Alan] tarafında yapabileceğimiz iyileştirmeleri konuşmak için önümüzdeki hafta 10-15 dakikalık kısa bir görüşmeye ne dersiniz?
 
-Are you open to a quick 15-minute chat next week?
+Saygılarımla,
 
-Best,
-
-[Your Name]
-[Link to Portfolio]
+[Adınız Soyadınız]
+[Portfolyo Linkiniz]
 
 ---
 
-## Template 2: The "Direct" Approach
+## Şablon 2: "Doğrudan" Yaklaşım
 
-**Subject:** [Your Skill] for [Client Company Name]
+**Konu:** [Müşteri Firma Adı] için [Hizmetiniz] desteği
 
-Hi [Client Name],
+Merhaba [Müşteri Adı],
 
-I'm writing to see if you're looking for help with [Specific Service].
+[Spesifik Hizmet - örn: React Geliştirme] konusunda dışarıdan desteğe ihtiyacınız olup olmadığını öğrenmek istedim.
 
-I'm a freelance [Your Job Title] with experience working with companies like [Client Competitor/Similar Company]. I help businesses [Value Proposition].
+Ben, [Müşteri Rakibi/Benzer Firma] gibi şirketlerle çalışma deneyimi olan bir [Unvanınız - örn: Full Stack Geliştirici]'yim. İşletmelerin [Değer Öneriniz - örn: dijital dönüşümlerini hızlandırmalarına] yardımcı oluyorum.
 
-You can check out my portfolio here: [Link]
+Portfolyomu ve önceki işlerimi buradan inceleyebilirsiniz: [Link]
 
-Let me know if you'd be interested in discussing how I can help [Client Company Name] grow.
+[Müşteri Firma Adı]'na nasıl katkı sağlayabileceğimi konuşmak isterseniz haberleşelim.
 
-Cheers,
+İyi çalışmalar,
 
-[Your Name]
+[Adınız Soyadınız]

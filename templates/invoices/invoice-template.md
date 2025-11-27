@@ -1,39 +1,41 @@
-# INVOICE
+# FATURA
 
-**Invoice #:** [Number]
-**Date:** [Date]
-**Due Date:** [Date]
+**Fatura No:** [Numara]
+**Tarih:** [Tarih]
+**Vade Tarihi:** [Tarih]
 
-**Bill To:**
-[Client Name]
-[Client Company]
-[Client Address]
+**Sayın:**
+[Müşteri Adı]
+[Firma Adı]
+[Adres]
+[Vergi Dairesi / VKN]
 
-**From:**
-[Your Name]
-[Your Company]
-[Your Address]
-
----
-
-| Description | Hours/Qty | Rate | Amount |
-|-------------|-----------|------|--------|
-| [Service 1] | [Qty] | $[Rate] | $[Amount] |
-| [Service 2] | [Qty] | $[Rate] | $[Amount] |
-| [Service 3] | [Qty] | $[Rate] | $[Amount] |
+**Gönderen:**
+[Adınız Soyadınız]
+[Firma Adınız (Varsa)]
+[Adresiniz]
+[Vergi Dairesi / TCKN]
 
 ---
 
-**Subtotal:** $[Amount]
-**Tax ([Rate]%):** $[Amount]
-**Total Due:** $[Total Amount]
+| Açıklama | Saat/Adet | Birim Fiyat | Tutar |
+|----------|-----------|-------------|-------|
+| [Hizmet 1] | [Miktar] | [Fiyat] TL | [Tutar] TL |
+| [Hizmet 2] | [Miktar] | [Fiyat] TL | [Tutar] TL |
+| [Hizmet 3] | [Miktar] | [Fiyat] TL | [Tutar] TL |
 
 ---
 
-**Payment Details:**
-- **Bank Name:** [Bank Name]
-- **Account Number:** [Account Number]
-- **Routing Number:** [Routing Number]
-- **PayPal/Stripe:** [Link/Email]
+**Ara Toplam:** [Tutar] TL
+**KDV (%20):** [Tutar] TL
+**Genel Toplam:** [Toplam Tutar] TL
 
-*Thank you for your business!*
+---
+
+**Ödeme Bilgileri:**
+- **Banka:** [Banka Adı]
+- **IBAN:** TR[XX] [XXXX] [XXXX] [XXXX] [XXXX] [XX]
+- **Hesap Sahibi:** [Adınız Soyadınız]
+- **Açıklama:** Fatura No [Numara]
+
+*İşbirliğiniz için teşekkürler!*

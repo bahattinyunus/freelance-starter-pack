@@ -1,56 +1,56 @@
-# Client Onboarding Email Templates
+# Müşteri Karşılama (Onboarding) E-posta Şablonları
 
-## Template 1: Welcome Email
+## Şablon 1: Hoş Geldiniz / Proje Başlangıcı
 
-**Subject:** Welcome Aboard! / Project Kickoff: [Project Name]
+**Konu:** Hoş Geldiniz! / Proje Başlangıcı: [Proje Adı]
 
-Hi [Client Name],
+Merhaba [Müşteri Adı],
 
-I'm really excited to get started on [Project Name]!
+[Proje Adı] projesine başlamak için sabırsızlanıyorum!
 
-To kick things off, I've attached the following documents:
-1.  **Signed Agreement**: For your records.
-2.  **Invoice #001**: For the initial deposit.
-3.  **Project Timeline**: An overview of our key milestones.
+Süreci resmen başlatmak adına aşağıdaki belgeleri ekte iletiyorum:
+1.  **İmzalı Sözleşme:** Kayıtlarınız için.
+2.  **Fatura #001:** Ön ödeme (depozito) için.
+3.  **Proje Takvimi:** Önemli kilometre taşlarını içeren plan.
 
-**Next Steps:**
-- Please review and sign the agreement (if you haven't already).
-- Process the deposit invoice.
-- [Any other immediate action item, e.g., "Send over the logo files"].
+**Sonraki Adımlar:**
+- Lütfen sözleşmeyi inceleyip imzalayın (henüz yapmadıysanız).
+- Ön ödeme faturasını işleme alın.
+- [Diğer acil ihtiyaçlar - örn: Logo dosyalarını iletin].
 
-Once the deposit is received, I'll schedule our kickoff call to dive into the details.
+Ödeme ulaştıktan sonra detayları konuşmak için bir başlangıç toplantısı (kick-off) planlayacağız.
 
-Let me know if you have any questions!
+Herhangi bir sorunuz olursa buradayım.
 
-Best,
+Sevgiler,
 
-[Your Name]
+[Adınız Soyadınız]
 
 ---
 
-## Template 2: Project Update
+## Şablon 2: Proje Güncellemesi (Haftalık)
 
-**Subject:** Update: [Project Name] - [Date]
+**Konu:** Güncelleme: [Proje Adı] - [Tarih]
 
-Hi [Client Name],
+Merhaba [Müşteri Adı],
 
-Here is a quick update on our progress this week:
+Bu hafta projede kaydettiğimiz ilerlemeyi aşağıda özetledim:
 
-**Completed:**
-- [Task 1]
-- [Task 2]
+**Tamamlananlar:**
+- [Görev 1]
+- [Görev 2]
 
-**In Progress:**
-- [Task 3]
+**Devam Edenler:**
+- [Görev 3]
 
-**Up Next:**
-- [Task 4]
+**Sırada Ne Var:**
+- [Görev 4]
 
-**Blockers/Questions:**
-- [Question 1]
+**Sorular / Bekleyenler:**
+- [Soru 1 - örn: Hakkımızda yazısı için içerik onayı bekliyoruz]
 
-Everything is on track for our [Date] deadline.
+Her şey [Tarih] teslim hedefimize uygun ilerliyor.
 
-Have a great weekend!
+İyi hafta sonları!
 
-[Your Name]
+[Adınız Soyadınız]

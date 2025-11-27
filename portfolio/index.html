@@ -1,68 +1,177 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="tr">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Portfolio</title>
+    <title>Portfolyom</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
     <style>
-        body { font-family: sans-serif; margin: 0; padding: 0; line-height: 1.6; color: #333; }
-        header { background: #333; color: #fff; padding: 2rem 0; text-align: center; }
-        .container { width: 80%; margin: auto; overflow: hidden; padding: 2rem 0; }
-        .hero { text-align: center; padding: 4rem 0; background: #f4f4f4; }
-        .projects { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; }
-        .project-card { border: 1px solid #ddd; padding: 1rem; border-radius: 5px; background: #fff; }
-        .btn { display: inline-block; background: #333; color: #fff; padding: 0.7rem 1.5rem; text-decoration: none; border-radius: 5px; margin-top: 1rem; }
-        footer { background: #333; color: #fff; text-align: center; padding: 1rem 0; margin-top: 2rem; }
+        body {
+            font-family: 'Inter', sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f9fafb;
+        }
+
+        header {
+            background: #1f2937;
+            color: #fff;
+            padding: 3rem 0;
+            text-align: center;
+        }
+
+        .container {
+            width: 90%;
+            max-width: 1100px;
+            margin: auto;
+            overflow: hidden;
+            padding: 2rem 0;
+        }
+
+        .hero {
+            text-align: center;
+            padding: 5rem 0;
+            background: #fff;
+            border-bottom: 1px solid #e5e7eb;
+        }
+
+        .hero h2 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            color: #111827;
+        }
+
+        .projects {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+
+        .project-card {
+            border: 1px solid #e5e7eb;
+            padding: 1.5rem;
+            border-radius: 8px;
+            background: #fff;
+            transition: transform 0.2s;
+        }
+
+        .project-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+        }
+
+        .btn {
+            display: inline-block;
+            background: #2563eb;
+            color: #fff;
+            padding: 0.7rem 1.5rem;
+            text-decoration: none;
+            border-radius: 6px;
+            margin-top: 1rem;
+            font-weight: 600;
+        }
+
+        .btn:hover {
+            background: #1d4ed8;
+        }
+
+        .btn-outline {
+            background: transparent;
+            border: 1px solid #2563eb;
+            color: #2563eb;
+            margin-left: 0.5rem;
+        }
+
+        .btn-outline:hover {
+            background: #eff6ff;
+        }
+
+        footer {
+            background: #1f2937;
+            color: #9ca3af;
+            text-align: center;
+            padding: 2rem 0;
+            margin-top: 4rem;
+        }
     </style>
 </head>
+
 <body>
 
-<header>
-    <div class="container">
-        <h1>[Your Name]</h1>
-        <p>Full Stack Developer</p>
-    </div>
-</header>
-
-<section class="hero">
-    <div class="container">
-        <h2>I build high-quality web applications.</h2>
-        <p>Specializing in React, Node.js, and modern web technologies.</p>
-        <a href="#contact" class="btn">Hire Me</a>
-    </div>
-</section>
-
-<section class="container">
-    <h2>Projects</h2>
-    <div class="projects">
-        <!-- Project 1 -->
-        <div class="project-card">
-            <h3>Project Name 1</h3>
-            <p>A brief description of the project and the technologies used.</p>
-            <a href="#" class="btn">View Demo</a>
-            <a href="#" class="btn">View Code</a>
+    <header>
+        <div class="container">
+            <h1 style="margin:0; font-size: 2rem;">[Adınız Soyadınız]</h1>
+            <p style="margin-top: 0.5rem; opacity: 0.8;">Full Stack Geliştirici</p>
         </div>
-        <!-- Project 2 -->
-        <div class="project-card">
-            <h3>Project Name 2</h3>
-            <p>A brief description of the project and the technologies used.</p>
-            <a href="#" class="btn">View Demo</a>
-            <a href="#" class="btn">View Code</a>
-        </div>
-        <!-- Project 3 -->
-        <div class="project-card">
-            <h3>Project Name 3</h3>
-            <p>A brief description of the project and the technologies used.</p>
-            <a href="#" class="btn">View Demo</a>
-            <a href="#" class="btn">View Code</a>
-        </div>
-    </div>
-</section>
+    </header>
 
-<footer id="contact">
-    <p>Contact me at: <a href="mailto:you@example.com" style="color: #fff;">you@example.com</a></p>
-    <p>&copy; 2024 [Your Name]. All rights reserved.</p>
-</footer>
+    <section class="hero">
+        <div class="container">
+            <h2>Modern ve Hızlı Web Uygulamaları Geliştiriyorum.</h2>
+            <p style="font-size: 1.2rem; color: #4b5563; max-width: 600px; margin: 0 auto 2rem auto;">React, Node.js ve
+                modern web teknolojileri konusunda uzmanım. İşletmenizin dijital dönüşümüne katkı sağlamaya hazırım.</p>
+            <a href="#contact" class="btn">Benimle Çalışın</a>
+        </div>
+    </section>
+
+    <section class="container">
+        <h2 style="text-align: center; margin-bottom: 2rem; color: #111827;">Projelerim</h2>
+        <div class="projects">
+            <!-- Proje 1 -->
+            <div class="project-card">
+                <h3>E-Ticaret Paneli</h3>
+                <p>Küçük işletmeler için stok takibi ve sipariş yönetimi sağlayan bir admin paneli.</p>
+                <div style="margin-top: 1rem;">
+                    <span
+                        style="background: #e0f2fe; color: #0369a1; padding: 0.2rem 0.5rem; border-radius: 4px; font-size: 0.8rem;">React</span>
+                    <span
+                        style="background: #dcfce7; color: #15803d; padding: 0.2rem 0.5rem; border-radius: 4px; font-size: 0.8rem;">Node.js</span>
+                </div>
+                <br>
+                <a href="#" class="btn">Demo</a>
+                <a href="#" class="btn btn-outline">Kodlar</a>
+            </div>
+            <!-- Proje 2 -->
+            <div class="project-card">
+                <h3>Kurumsal Web Sitesi</h3>
+                <p>Hızlı, SEO uyumlu ve mobil öncelikli tasarıma sahip kurumsal tanıtım sitesi.</p>
+                <div style="margin-top: 1rem;">
+                    <span
+                        style="background: #e0f2fe; color: #0369a1; padding: 0.2rem 0.5rem; border-radius: 4px; font-size: 0.8rem;">HTML/CSS</span>
+                    <span
+                        style="background: #dcfce7; color: #15803d; padding: 0.2rem 0.5rem; border-radius: 4px; font-size: 0.8rem;">Tailwind</span>
+                </div>
+                <br>
+                <a href="#" class="btn">Demo</a>
+                <a href="#" class="btn btn-outline">Kodlar</a>
+            </div>
+            <!-- Proje 3 -->
+            <div class="project-card">
+                <h3>Hava Durumu API</h3>
+                <p>Konum bazlı anlık hava durumu bilgisi sağlayan RESTful API servisi.</p>
+                <div style="margin-top: 1rem;">
+                    <span
+                        style="background: #e0f2fe; color: #0369a1; padding: 0.2rem 0.5rem; border-radius: 4px; font-size: 0.8rem;">Express</span>
+                    <span
+                        style="background: #dcfce7; color: #15803d; padding: 0.2rem 0.5rem; border-radius: 4px; font-size: 0.8rem;">API</span>
+                </div>
+                <br>
+                <a href="#" class="btn">Demo</a>
+                <a href="#" class="btn btn-outline">Kodlar</a>
+            </div>
+        </div>
+    </section>
+
+    <footer id="contact">
+        <p>İletişim: <a href="mailto:you@example.com"
+                style="color: #fff; text-decoration: underline;">you@example.com</a></p>
+        <p>&copy; 2024 [Adınız Soyadınız]. Tüm hakları saklıdır.</p>
+    </footer>
 
 </body>
+
 </html>

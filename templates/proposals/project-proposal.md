@@ -1,42 +1,50 @@
-# Project Proposal: [Project Name]
+# Proje Teklifi: [Proje Adı]
 
-**Prepared for:** [Client Name]
-**Prepared by:** [Your Name]
-**Date:** [Date]
+**Hazırlayan:** [Adınız Soyadınız]
+**Müşteri:** [Müşteri Adı]
+**Tarih:** [Tarih]
 
-## 1. Executive Summary
-[Briefly describe the client's problem and your proposed solution. Keep it punchy.]
+## 1. Yönetici Özeti
+[Müşterinin problemini ve sunduğunuz çözümü kısaca, vurucu bir dille anlatın. Örn: "X firmasının dijital varlığını güçlendirmek için modern, hızlı ve mobil uyumlu bir web sitesi tasarımı."]
 
-## 2. Project Goals
-- [Goal 1]
-- [Goal 2]
-- [Goal 3]
+## 2. Proje Hedefleri
+- [Hedef 1 - Örn: Satışları %20 artırmak]
+- [Hedef 2 - Örn: Müşteri etkileşimini hızlandırmak]
+- [Hedef 3 - Örn: Marka bilinirliğini artırmak]
 
-## 3. Scope of Work
-| Phase | Description | Deliverables |
-|-------|-------------|--------------|
-| Phase 1 | Discovery & Planning | Project Plan, Wireframes |
-| Phase 2 | Design & Development | Design Mockups, Functional Code |
-| Phase 3 | Testing & Launch | QA Report, Live Site |
+## 3. Teknik Yaklaşım (Nasıl Yapacağız?)
+Bu projede en güncel ve performanslı teknolojileri kullanacağız:
+- **Frontend:** React / Next.js (Hız ve SEO için)
+- **Backend:** Node.js / Python (Güvenli veri işleme için)
+- **Veritabanı:** PostgreSQL / MongoDB
+- **Hosting:** Vercel / AWS
 
-## 4. Timeline
-- **Start Date:** [Date]
-- **Phase 1 Completion:** [Date]
-- **Phase 2 Completion:** [Date]
-- **Launch Date:** [Date]
+## 4. Kapsam ve Teslimatlar
+| Faz | Açıklama | Teslim Edilecekler |
+|-----|----------|--------------------|
+| Faz 1 | Keşif & Planlama | Proje Planı, Tel Kafes (Wireframe) Çizimleri |
+| Faz 2 | Tasarım & Geliştirme | Tasarım Mockup'ları, Çalışan Kod |
+| Faz 3 | Test & Yayına Alma | Hata Raporları, Canlı Site, Yönetici Paneli Girişleri |
 
-## 5. Investment
-| Item | Cost |
-|------|------|
-| Design | $[Amount] |
-| Development | $[Amount] |
-| **Total** | **$[Total Amount]** |
+## 5. Zaman Çizelgesi
+- **Başlangıç:** [Tarih]
+- **Faz 1 Bitiş:** [Tarih]
+- **Faz 2 Bitiş:** [Tarih]
+- **Canlıya Geçiş:** [Tarih]
 
-## 6. Why Me?
-[Briefly explain your experience and why you are the best fit for this project.]
+## 6. Yatırım (Bütçe)
+| Kalem | Tutar |
+|-------|-------|
+| Tasarım | [Tutar] TL |
+| Yazılım Geliştirme | [Tutar] TL |
+| Sunucu Kurulumu & Test | [Tutar] TL |
+| **Toplam** | **[Toplam Tutar] TL + KDV** |
 
-## 7. Next Steps
-To proceed, please sign the attached agreement and submit the deposit of [Amount].
+## 7. Neden Ben?
+[Kısaca deneyiminizden ve neden bu proje için en doğru kişi olduğunuzdan bahsedin. Referanslarınızdan bir cümle ekleyebilirsiniz.]
+
+## 8. Sonraki Adımlar
+Projeye başlamak için ekteki sözleşmeyi imzalayıp [Tutar] TL tutarındaki ön ödemeyi yapmanız yeterlidir.
 
 ---
-*Thank you for considering my proposal!*
+*Teklifimi incelediğiniz için teşekkür ederim!*

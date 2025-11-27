@@ -1,35 +1,38 @@
-# Freelance Pricing Guide
+# Freelance Fiyatlandırma Rehberi
 
-Pricing your services correctly is one of the hardest parts of freelancing. Here are a few common models to consider.
+Hizmetlerinizi doğru fiyatlandırmak, freelance çalışmanın en zor ama en kritik kısmıdır. İşte Türkiye pazarında ve globalde yaygın kullanılan modeller:
 
-## 1. Hourly Rate
-**Best for:** Unclear scope, ongoing maintenance, consulting.
-**Pros:** You get paid for every hour you work.
-**Cons:** Punishes efficiency (the faster you work, the less you earn). Clients may micromanage hours.
+## 1. Saatlik Ücret (Hourly Rate)
+**En uygun:** Kapsamı belirsiz işler, bakım/destek hizmetleri, danışmanlık.
+**Artıları:** Çalıştığınız her dakikanın karşılığını alırsınız.
+**Eksileri:** Hızlı çalışmak gelirinizi düşürür. Müşteriler saati sorgulayabilir.
 
-**Formula:**
-`(Desired Annual Income + Expenses) / Billable Hours = Hourly Rate`
+**Formül:**
+`(Hedeflenen Aylık Gelir + Giderler) / Faturalanabilir Saat = Saatlik Ücret`
 
-## 2. Fixed Project Fee
-**Best for:** Well-defined projects (e.g., "Build a 5-page website").
-**Pros:** Rewards efficiency. Clients know the exact cost upfront.
-**Cons:** Scope creep can kill your profitability.
+*Örnek: Ayda 30.000 TL kazanmak istiyorsunuz, 5.000 TL gideriniz var. Ayda 100 saat verimli çalışacaksanız saatliğiniz en az 350 TL olmalı.*
 
-**Tip:** Always add a buffer (10-20%) for unexpected issues.
+## 2. Proje Bazlı Sabit Fiyat (Fixed Price)
+**En uygun:** Kapsamı net işler (örn: "5 sayfalık kurumsal web sitesi").
+**Artıları:** Verimli çalışırsanız karlılığınız artar. Müşteri ne ödeyeceğini baştan bilir.
+**Eksileri:** Kapsam genişlemesi (scope creep) karınızı eritir.
 
-## 3. Retainer
-**Best for:** Long-term relationships, ongoing services (e.g., social media management, SEO).
-**Pros:** Predictable income.
-**Cons:** Can be hard to sell to new clients.
+**İpucu:** Beklenmedik durumlar için her zaman %10-20 "tampon payı" ekleyin.
 
-## 4. Value-Based Pricing
-**Best for:** High-impact projects where your work directly drives revenue.
-**Pros:** Highest earning potential.
-**Cons:** Requires strong sales skills and trust.
+## 3. Düzenli Ödeme (Retainer)
+**En uygun:** Uzun vadeli ilişkiler, sürekli hizmetler (örn: Sosyal medya yönetimi, SEO, sunucu bakımı).
+**Artıları:** Düzenli ve öngörülebilir gelir.
+**Eksileri:** Yeni müşterilere satması zordur.
 
-**Concept:** Price based on the *value* you provide to the client, not the time it takes you. If your work will make them $100k, charging $10k is a no-brainer, even if it only takes you 5 hours.
+## 4. Değer Odaklı Fiyatlandırma (Value-Based)
+**En uygun:** Müşterinin gelirini doğrudan etkileyecek işler.
+**Artıları:** En yüksek kazanç potansiyeli.
+**Eksileri:** Güçlü satış ve ikna yeteneği gerektirir.
 
-## General Tips
-- **Never underprice:** It attracts bad clients and leads to burnout.
-- **Raise your rates:** Review your rates every 6-12 months.
-- **Get a deposit:** Always ask for 50% upfront for fixed projects.
+**Mantık:** Harcadığınız zamana göre değil, müşteriye kazandıracağınız değere göre fiyat verin. Eğer yaptığınız iş müşteriye 1 Milyon TL kazandıracaksa, 100.000 TL istemek mantıklıdır (işiniz sadece 10 saat sürse bile).
+
+## Genel Tavsiyeler (Türkiye Pazarı İçin)
+- **Asla bedavaya çalışmayın:** "Referans olur" tuzağına düşmeyin. Emeğinizin bir bedeli olsun.
+- **Enflasyonu unutmayın:** Teklif verirken ödemenin ne zaman yapılacağını ve enflasyon riskini göz önünde bulundurun.
+- **KDV hariç konuşun:** Fiyatlarınızı her zaman "+ KDV" olarak belirtin.
+- **Kapora alın:** Sabit fiyatlı işlerde işe başlamadan önce mutlaka %30-%50 arası ön ödeme alın.

@@ -1,46 +1,49 @@
-# Freelance Service Agreement
+# Freelance Hizmet Sözleşmesi
 
-**Date:** [Date]
+**Tarih:** [Tarih]
 
-**Between:**
+**Taraflar:**
 
-**Client:**
-[Client Name]
-[Client Address]
-[Client Email]
+**Müşteri:**
+[Müşteri Adı / Firma Adı]
+[Adres]
+[Vergi Dairesi / No]
+[E-posta]
 
-**Freelancer:**
-[Your Name]
-[Your Address]
-[Your Email]
+**Yüklenici (Freelancer):**
+[Adınız Soyadınız]
+[Adresiniz]
+[E-posta]
 
-## 1. Services Provided
-The Freelancer agrees to provide the following services to the Client:
-- [Service 1 Description]
-- [Service 2 Description]
-- [Service 3 Description]
+## 1. Hizmetin Konusu
+Yüklenici, Müşteri'ye aşağıdaki hizmetleri sağlamayı kabul eder:
+- [Hizmet 1 Açıklaması - Örn: Web Sitesi Tasarımı]
+- [Hizmet 2 Açıklaması - Örn: Mobil Uygulama Geliştirme]
+- [Hizmet 3 Açıklaması]
 
-## 2. Payment Terms
-- **Total Fee:** [Amount]
-- **Deposit:** [Amount] (due upon signing)
-- **Balance:** [Amount] (due upon completion)
-- **Payment Method:** [Bank Transfer/PayPal/etc.]
+## 2. Ücret ve Ödeme Koşulları
+- **Toplam Hizmet Bedeli:** [Tutar] TL + KDV
+- **Ön Ödeme (Depozito):** [Tutar] TL (Sözleşme imzalandığında ödenir)
+- **Kalan Bakiye:** [Tutar] TL (İş tesliminde ödenir)
+- **Ödeme Yöntemi:** [Banka Havalesi / IBAN]
 
-## 3. Timeline
-- **Start Date:** [Date]
-- **Estimated Completion Date:** [Date]
+*Not: Ödemelerden doğacak stopaj ve diğer vergiler Müşteri'nin sorumluluğundadır (eğer fatura kesilmiyorsa gider pusulası düzenlenmelidir).*
 
-## 4. Intellectual Property
-Upon full payment, the Freelancer assigns to the Client all rights, title, and interest in the work product created under this agreement.
+## 3. Zaman Çizelgesi
+- **Başlangıç Tarihi:** [Tarih]
+- **Tahmini Teslim Tarihi:** [Tarih]
 
-## 5. Confidentiality
-Both parties agree to keep confidential any proprietary information received from the other party.
+## 4. Fikri Mülkiyet Hakları
+Ödemenin tamamı yapıldığında, Yüklenici bu sözleşme kapsamında oluşturulan tüm çalışma ürünlerinin mali haklarını Müşteri'ye devreder. Yüklenici, çalışmayı portfolyosunda sergileme hakkını saklı tutar.
 
-## 6. Termination
-Either party may terminate this agreement with [Number] days written notice. The Client is responsible for payment for all work completed up to the date of termination.
+## 5. Gizlilik
+Taraflar, işbu sözleşme kapsamında birbirlerinden edindikleri her türlü ticari, teknik ve mali bilgiyi gizli tutmayı kabul eder.
+
+## 6. Fesih
+Taraflardan biri, [Gün Sayısı] gün önceden yazılı bildirimde bulunarak sözleşmeyi feshedebilir. Fesih durumunda, o ana kadar yapılan çalışmaların bedeli Müşteri tarafından ödenir.
 
 ---
 
-**Client Signature:** __________________________  **Date:** ____________
+**Müşteri İmza / Kaşe:** __________________________  **Tarih:** ____________
 
-**Freelancer Signature:** ______________________  **Date:** ____________
+**Yüklenici İmza:** ______________________  **Tarih:** ____________
