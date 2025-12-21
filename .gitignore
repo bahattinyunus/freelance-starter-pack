@@ -3,6 +3,18 @@
 Thumbs.db
 *.log
 *.tmp
+*.bak
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Node
+node_modules/
+dist/
 
 # Editors
 .vscode/
