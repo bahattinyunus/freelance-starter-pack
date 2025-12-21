@@ -1,39 +1,39 @@
-# Contributing to Freelance Starter Pack
+# Freelance Starter Pack'e Katkıda Bulunmak
 
-First off, thank you for considering contributing to Freelance Starter Pack! It's people like you that make this such a great tool.
+Öncelikle, Freelance Starter Pack'e katkıda bulunmayı düşündüğünüz için teşekkür ederiz! Sizin gibi insanlar, bu projeyi böylesine harika bir araç haline getiriyor.
 
-## Code of Conduct
+## Davranış Kuralları
 
-This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+Bu proje ve katılan herkes için [Davranış Kuralları](CODE_OF_CONDUCT.md) geçerlidir. Katılarak bu kurallara uymanız beklenmektedir.
 
-## How Can I Contribute?
+## Nasıl Katkıda Bulunabilirim?
 
-### Reporting Bugs
-- Use the repository's Issue Tracker.
-- Describe the bug and include steps to reproduce it.
+### Hata Bildirme
+- Deponun İş Takibi (Issue Tracker) kısmını kullanın.
+- Hatayı detaylandırın ve hatanın nasıl oluştuğuna dair adımları ekleyin.
 
-### Suggesting Enhancements
-- Check if the enhancement has already been suggested.
-- Open a new issue with a clear title and description.
+### Geliştirme Önerileri
+- Önerinizin daha önce yapılıp yapılmadığını kontrol edin.
+- Net bir başlık ve açıklama ile yeni bir "issue" açın.
 
-### Pull Requests
-- Fork the repo and create your branch from `main`.
-- If you've added code that should be tested, add tests.
-- Ensure the test suite passes.
-- Make sure your code lints.
-- Issue a pull request!
+### Pull Request'ler (PR)
+- Depoyu fork edin ve `main` dalından (branch) kendi dalınızı oluşturun.
+- Eğer test edilmesi gereken kod eklediyseniz, testlerini de ekleyin.
+- Testlerin başarılı olduğundan emin olun.
+- Kodunuzun "lint" standartlarına uyduğundan emin olun.
+- Bir "pull request" oluşturun!
 
-## Styleguides
+## Stil Kılavuzları
 
-### Git Commit Messages
-- Use the present tense ("Add feature" not "Added feature").
-- Use the imperative mood ("Move cursor to..." not "Moves cursor to...").
-- Limit the first line to 72 characters or less.
+### Git Commit Mesajları
+- Şimdiki zaman kullanın ("Özellik ekle", "Ekledi" değil).
+- Emir kipi kullanın ("İmleci şuraya taşı...", "İmleci taşıyor" değil).
+- İlk satırı 72 karakter veya daha az tutun.
 
 ### Markdown
-- Use standard Markdown.
-- Use meaningful titles and sections.
+- Standart Markdown kullanın.
+- Anlamlı başlıklar ve bölümler kullanın.
 
 ---
 
-*Thank you for being part of the journey!*
+*Yolculuğun bir parçası olduğunuz için teşekkürler!*

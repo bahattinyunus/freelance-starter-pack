@@ -1,41 +1,41 @@
-# 🛠️ _SCRIPTS: AUTOMATION HUB
-### *Force Multipliers for the Sovereign Technician*
+# 🛠️ _SCRIPTS: OTOMASYON MERKEZİ
+### *Egemen Teknisyen için Güç Çarpanları*
 
-The `_SCRIPTS` directory is the engine room of the Freelance Starter Pack. It houses the proprietary automation logic designed to eliminate repetitive labor and ensure elite precision in every operation.
+`_SCRIPTS` dizini, Freelance Starter Pack'in makine dairesidir. Manuel emeği ortadan kaldırmak ve her operasyonda elit hassasiyeti sağlamak için tasarlanmış özel otomasyon mantığını barındırır.
 
-## 🛰️ TOOL CATALOG
+## 🛰️ ARAÇ KATALOĞU
 
 ### 1. `nexus_tool.py`
-- **Focus:** A centralized 'Operational Hub' for project lifecycle management.
-- **Capabilities:**
-    - **Asset Initialization:** Rapid setup of standardized folder structures.
-    - **Logic Auditing:** Tactical syntax and link verification across the repo.
-    - **Deployment Sync:** Automated staging and pushing of project assets.
-- **Execution:** `python nexus_tool.py [command] [args]`
+- **Odak:** Proje yaşam döngüsü yönetimi için merkezi bir 'Operasyonel Merkez'.
+- **Yetenekler:**
+    - **Varlık Başlatma (Asset Initialization):** Standartlaştırılmış klasör yapılarının hızlı kurulumu.
+    - **Mantık Denetimi (Logic Auditing):** Depo genelinde taktiksel sözdizimi ve bağlantı doğrulaması.
+    - **Dağıtım Senkronizasyonu (Deployment Sync):** Proje varlıklarının otomatik olarak hazırlanması ve pushlanması.
+- **Çalıştırma:** `python nexus_tool.py [komut] [argümanlar]`
 
 ---
 
-## 🏁 OPERATIONAL DRILLS
+## 🏁 OPERASYONEL TATBİKATLAR
 
-### The 'Rapid Deployment' Sequence
-When starting a new client project, follow this drill to ensure consistency:
-1.  **Initialize:** Run `nexus_tool.py init [project_name]` to create the 'Zenith' structure.
-2.  **Asset Load:** Deploy templates from `DOMINION_TEMPLATES/` to the new project root.
-3.  **Git Sync:** Use the script to initialize a local git instance and connect it to a remote node.
-
----
-
-## 🚀 USAGE PROTOCOLS
-
-1.  **Environment Isolation:** Recommended to use `venv/` for all script operations.
-2.  **The 'Dry Run' Rule:** Always run scripts with a `--dry-run` flag (if available) before committing changes to production files.
-3.  **Refactoring Guidelines:** When adding new scripts, maintain the 'Obsidian' style of logging and error handling.
+### 'Hızlı Seferberlik' Dizisi
+Yeni bir müşteri projesine başlarken, tutarlılığı sağlamak için bu tatbikatı izleyin:
+1.  **Başlat:** 'Zenit' yapısını oluşturmak için `nexus_tool.py init [proje_adi]` komutunu çalıştırın.
+2.  **Varlık Yükleme:** `DOMINION_TEMPLATES/` altındaki şablonları yeni proje köküne dağıtın.
+3.  **Git Senkronizasyonu:** Yerel bir git örneği başlatmak ve onu bir uzak düğüme bağlamak için script'i kullanın.
 
 ---
 
-## 📈 STRATEGIC VALUE
-Every hour spent manual laboring is an hour stolen from strategic growth. The `_SCRIPTS` division ensures you operate at the highest possible efficiency, allowing you to scale your business without scaling your stress.
+## 🚀 KULLANIM PROTOKOLLERİ
+
+1.  **Ortam İzolasyonu:** Tüm script operasyonları için `venv/` kullanılması önerilir.
+2.  **'Kuru Çalıştırma' (Dry Run) Kuralı:** Üretim dosyalarında değişiklik yapmadan önce, varsa scriptleri her zaman `--dry-run` bayrağıyla çalıştırın.
+3.  **Refaktör Kılavuzu:** Yeni scriptler eklerken, loglama ve hata yönetimi konusunda 'Obsidian' stilini koruyun.
 
 ---
 
-[Back to Command Center](../README.md)
+## 📈 STRATEJİK DEĞER
+Manuel işçilikle harcanan her saat, stratejik büyümeden çalınan bir saattir. `_SCRIPTS` bölümü, en yüksek verimlilikle çalışmanızı sağlayarak, işinizi stresinizi artırmadan ölçeklendirmenize olanak tanır.
+
+---
+
+[Komuta Merkezine Dön](../README.md)

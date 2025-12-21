@@ -1,62 +1,62 @@
 ![Projects Header](../_ASSETS/category_projects.png)
 
-# 🚀 DOMINION: PROJECTS
-### *Tactical Execution Hub & Operational Frameworks*
+# 🚀 DOMINION: PROJELER
+### *Taktiksel Yürütme Merkezi ve Operasyonel Çerçeveler*
 
-The **Projects Dominion** is the operational engine of your freelance enterprise. It contains active architectures and the standard protocols required to deliver world-class software and products on time, every time.
+**Projeler Dominion**, freelance işletmenizin operasyonel motorudur. Aktif mimarileri ve dünya standartlarında yazılım ve ürünleri her zaman zamanında teslim etmek için gereken standart protokolleri içerir.
 
-## 🛰️ PROJECT CATALOG
+## 🛰️ PROJE KATALOĞU
 
-| Project | Strategic Role | Operational Tech |
+| Proje | Stratejik Rol | Operasyonel Teknoloji |
 | :--- | :--- | :--- |
-| **`landing-admin`** | Rapid deployment of client administration systems. | HTML, CSS, JS |
-| **`public-api`** | Standardized gateway for digital service integration. | Python, Node |
-| **`task-manager`** | Internal command center for sprint execution. | Python, SQLite |
+| **`landing-admin`** | Müşteri yönetim sistemlerinin hızlı dağıtımı. | HTML, CSS, JS |
+| **`public-api`** | Dijital hizmet entegrasyonu için standartlaştırılmış ağ geçidi. | Python, Node |
+| **`task-manager`** | Sprint yürütme için dahili komuta merkezi. | Python, SQLite |
 
 ---
 
-## 📋 STANDARD OPERATING PROCEDURES (SOPs)
+## 📋 STANDART OPERASYON PROSEDÜRLERİ (SOPs)
 
-To maintain 'Zenith' quality, every project must pass through these tactical phases:
+'Zenith' kalitesini korumak için her proje bu taktiksel aşamalardan geçmelidir:
 
-### Phase 1: Deep Discovery (Intel Gathering)
-- Define the "Ideal Project Outcome" for the client.
-- Identify all technical and business constraints.
-- Create an initial `PROJECT_BLUEPRINT.md` in the project root.
+### Aşama 1: Derin Keşif (İstihbarat Toplama)
+- Müşteri için "İdeal Proje Sonucu"nu tanımlayın.
+- Tüm teknik ve iş kısıtlamalarını belirleyin.
+- Proje kökünde bir başlangıç `PROJECT_BLUEPRINT.md` dosyası oluşturun.
 
-### Phase 2: Rapid Sprint Cycles
-- Use the `task-manager` to track daily milestones.
-- Commit code at high frequency to ensure transparency.
-- Automate repetitive tasks using the `Nexus Tool` (`_SCRIPTS/`).
+### Aşama 2: Hızlı Sprint Döngüleri
+- Günlük kilometre taşlarını izlemek için `task-manager`ı kullanın.
+- Şeffaflığı sağlamak için yüksek frekansta kod commit'i yapın.
+- `Nexus Tool` (`_SCRIPTS/`) kullanarak tekrarlayan görevleri otomatikleştirin.
 
-### Phase 3: The Hardening Phase
-- Peer review (or AI-audit) all core logic.
-- Optimize for performance and signal-to-noise ratio in code.
-- Finalize documentation for handoff.
+### Aşama 3: Sertleştirme (Hardening) Aşaması
+- Tüm temel mantığı akran denetiminden (veya AI denetiminden) geçirin.
+- Koddaki sinyal-gürültü oranını ve performansı optimize edin.
+- Teslimat için dokümantasyonu sonlandırın.
 
-### Phase 4: Tactical Handoff
-- Deliver a comprehensive "Operational Manual" to the client.
-- Conduct a closing strategy session to identify future value-add opportunities.
-
----
-
-## 🛠️ THE 'ZERO-DEBT' REFACTORING PROTOCOL
-Elite engineering projects require continuous maintenance. Use this protocol to manage technical debt.
-
-1.  **Isolation:** When a bug is found, isolate the logic into a separate script in `_SCRIPTS/sandbox/`.
-2.  **Instrumentation:** Use standard logging to trace the data flow.
-3.  **The Strike:** Fix the root cause, not the symptom.
-4.  **Verification:** Run the `Nexus Tool` build audit to ensure no regression in documentation or links.
-5.  **Documentation:** Update the `PROJECT_BLUEPRINT.md` with the new logic flow.
+### Aşama 4: Taktiksel Teslimat (Handoff)
+- Müşteriye kapsamlı bir "Operasyonel Kılavuz" teslim edin.
+- Gelecekteki değer artırma fırsatlarını belirlemek için bir kapanış strateji oturumu gerçekleştirin.
 
 ---
 
-## 🛠️ OPERATIONAL TOOLS
-Use the scripts in `_SCRIPTS/` to automate common project tasks like directory setup, git initialization, and automated testing.
+## 🛠️ 'SIFIR BORÇ' (ZERO-DEBT) REFAKTÖR PROTOKOLÜ
+Elit mühendislik projeleri sürekli bakım gerektirir. Teknik borcu yönetmek için bu protokolü kullanın.
 
-## 📈 STRATEGIC FOCUS
-Professionalism is found in the *process*, not just the *product*. By following these SOPs, you move from "freelance coder" to "elite engineering partner."
+1.  **İzolasyon:** Bir hata bulunduğunda, mantığı `_SCRIPTS/sandbox/` içindeki ayrı bir script'e izole edin.
+2.  **Enstrümantasyon:** Veri akışını izlemek için standart loglama kullanın.
+3.  **Vuruş:** Semptomu değil, kök nedeni çözün.
+4.  **Doğrulama:** Dokümantasyon veya linklerde gerileme olmadığından emin olmak için `Nexus Tool` yapı denetimini çalıştırın.
+5.  **Dokümantasyon:** Yeni mantık akışıyla `PROJECT_BLUEPRINT.md` dosyasını güncelleyin.
 
 ---
 
-[Back to Command Center](../README.md)
+## 🛠️ OPERASYONEL ARAÇLAR
+Dizin kurulumu, git başlatma ve otomatik test gibi yaygın proje görevlerini otomatikleştirmek için `_SCRIPTS/` içindeki scriptleri kullanın.
+
+## 📈 STRATEJK ODAK
+Profesyonellik sadece *üründe* değil, *süreçte* bulunur. Bu SOP'leri izleyerek, "freelance kodlayıcı"dan "elit mühendislik ortağı"na geçiş yaparsınız.
+
+---
+
+[Komuta Merkezine Dön](../README.md)

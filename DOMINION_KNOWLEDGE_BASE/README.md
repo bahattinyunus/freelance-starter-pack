@@ -1,59 +1,62 @@
 ![Knowledge Base Header](../_ASSETS/category_kb.png)
 
-# 🧠 DOMINION: KNOWLEDGE BASE
-### *Strategic Intelligence for Digital Sovereignty*
+# 🧠 DOMINION: BİLGİ BANKASI
+### *Dijital Egemenlik için Stratejik İstihbarat*
 
-The **Knowledge Base Dominion** is your personal intelligence hub. It contains the theoretical foundations, industry lore, and tactical guides required to transition from a technical worker to a strategic business operator.
+**Bilgi Bankası Dominion**, kişisel istihbarat merkezinizdir. Teknik bir işçiden stratejik bir işletme operatörüne geçiş yapmak için gereken teorik temelleri, endüstri doktrinini ve taktiksel rehberleri içerir.
 
-## 🛰️ KNOWLEDGE DIVISIONS
+## 🛰️ BİLGİ BÖLMELERİ
 
-- **`guides/`**: Procedural manuals for mastering tools and client management.
-- **`lore/`**: The underlying philosophy of the 'Blue-Collar Renaissance' and the 'Freelance Elite.'
-- **`market-intel/`**: Deep-dives into high-ticket niches and emerging tech market gaps.
-
----
-
-## 📚 CURATED STRATEGIC READING
-
-To maintain an elite edge, internalize the concepts from these (simulated) core modules:
-
-### 1. The Solopreneur's Manifesto
-*Understanding the 'One-Person Billion-Dollar Company' model.*
-- Focus on leverage (code, content, capital).
-- Building un-fireable income streams.
-
-### 2. Radical Accountability
-*The engineering mindset applied to business.*
-- Absolute ownership of every failure.
-- Systems-first thinking for problem solving.
-
-### 3. Market Manipulation (Ethics-First)
-*How to frame your services as a high-value investment.*
-- Psychological positioning in the sales process.
-- Moving from 'Commodity' to 'Unique Solution.'
+- **`guides/`**: Araçlarda ustalaşmak ve müşteri yönetimi için prosedürel kılavuzlar.
+- **`lore/`**: 'Mavi Yakalı Rönesansı' ve 'Freelance Elit'in temel felsefesi.
+- **`market-intel/`**: Yüksek bütçeli nişlere ve gelişmekte olan teknoloji pazarı boşluklarına derinlemesine bakış.
 
 ---
 
-## 🛰️ STRATEGIC INTELLIGENCE GATHERING
-To stay ahead of the curve, you must conduct regular intelligence drills on your target markets.
+## 📚 KÜRESEL STRATEJİK OKUMA LİSTESİ
 
-1.  **Sentiment Mapping:** Use social listening tools to identify the current 'Big Pain' of your niche.
-2.  **Competitor Audit:** Don't copy; analyze common failures in their delivery model.
-3.  **Emerging Tech Synthesis:** How can AI or automation solve a problem that was previously 'too expensive' to address?
-4.  **The Nexus Feedback Loop:** Use your script logs (`_SCRIPTS/`) to identify which technical areas need more theoretical documentation in this division.
+Elit bir avantajı korumak için, bu (simüle edilmiş) temel modüllerdeki kavramları içselleştirin:
+
+### 1. Solopreneur Manifestosu
+* 'Tek Kişilik Milyar Dolarlık Şirket' modelini anlamak.*
+- Kaldıraçlara odaklanın (kod, içerik, sermaye).
+- Kovulamaz gelir akışları inşa etmek.
+
+### 2. Radikal Sorumluluk
+* İş dünyasına uygulanan mühendislik zihniyeti.*
+- Her başarısızlığın mutlak sahipliği.
+- Problem çözme için sistem odaklı düşünme.
+
+### 3. Pazar Manipülasyonu (Önce Etik)
+* Hizmetlerinizi nasıl yüksek değerli bir yatırım olarak çerçevelersiniz?*
+- Satış sürecinde psikolojik konumlandırma.
+- 'Emtia'dan 'Benzersiz Çözüm'e geçiş.
 
 ---
 
-## 🚀 EXPLORATION PROTOCOL
-1.  **Consume:** Read through the guides during your 'Deep Work' sessions.
-2.  **Internalize:** Apply the tactical advice to a small, low-risk project first.
-3.  **Synthesize:** Combine multiple guides to create your own unique service delivery workflow.
+## 🛰️ STRATEJİK İSTİHBARAT TOPLAMA
+Eğrinin önünde kalmak için hedef pazarlarınızda düzenli istihbarat tatbikatları yapmalısınız.
+
+1.  **Duygu Haritalama:** Nişinizin mevcut 'Büyük Acısını' belirlemek için sosyal dinleme araçlarını kullanın.
+2.  **Rakip Denetimi:** Kopyalamayın; teslimat modellerindeki ortak başarısızlıkları analiz edin.
+3.  **Gelişen Teknoloji Sentezi:** Yapay zeka veya otomasyon, daha önce çözülmesi 'çok pahalı' olan bir sorunu nasıl çözebilir?
+4.  **Nexus Geri Bildirim Döngüsü:** Hangi teknik alanların bu bölümde daha fazla teorik dokümantasyona ihtiyaç duyduğunu belirlemek için script loglarınızı (`_SCRIPTS/`) kullanın.
 
 ---
 
-## 📈 STRATEGIC INSIGHT
-Knowledge without action is merely data. Use this division to build the mental models required to navigate the future of work.
+## 🏛️ REPO DOKTRİNİ (LORE)
+Biz **Egemen Teknisyene** inanıyoruz. AI otomasyonu çağında, karmaşık sistemleri yönetebilen ve ısmarlama beşeri stratejik değer sağlayabilen kişi gücü elinde tutacaktır. Bu depo, bu geçiş için sizin araç setinizdir.
+
+## 🚀 KEŞİF PROTOKOLÜ
+1.  **Tüket:** 'Derin Çalışma' seanslarınız sırasında rehberleri okuyun.
+2.  **İçselleştir:** Taktiksel tavsiyeleri önce küçük, düşük riskli bir projeye uygulayın.
+3.  **Sentezle:** Kendi benzersiz hizmet sunum iş akışınızı oluşturmak için birden fazla rehberi birleştirin.
 
 ---
 
-[Back to Command Center](../README.md)
+## 📈 STRATEJİK ÖNGÖRÜ
+Eyleme dökülmeyen bilgi sadece veridir. Geleceğin iş dünyasında yolunuzu bulmak için gereken zihinsel modelleri inşa etmek için bu bölümü kullanın.
+
+---
+
+[Komuta Merkezine Dön](../README.md)
