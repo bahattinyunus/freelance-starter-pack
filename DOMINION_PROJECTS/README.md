@@ -40,6 +40,17 @@ To maintain 'Zenith' quality, every project must pass through these tactical pha
 
 ---
 
+## 🛠️ THE 'ZERO-DEBT' REFACTORING PROTOCOL
+Elite engineering projects require continuous maintenance. Use this protocol to manage technical debt.
+
+1.  **Isolation:** When a bug is found, isolate the logic into a separate script in `_SCRIPTS/sandbox/`.
+2.  **Instrumentation:** Use standard logging to trace the data flow.
+3.  **The Strike:** Fix the root cause, not the symptom.
+4.  **Verification:** Run the `Nexus Tool` build audit to ensure no regression in documentation or links.
+5.  **Documentation:** Update the `PROJECT_BLUEPRINT.md` with the new logic flow.
+
+---
+
 ## 🛠️ OPERATIONAL TOOLS
 Use the scripts in `_SCRIPTS/` to automate common project tasks like directory setup, git initialization, and automated testing.
 

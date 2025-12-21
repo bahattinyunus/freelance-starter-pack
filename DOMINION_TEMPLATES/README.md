@@ -33,6 +33,16 @@ The **Templates Dominion** provides the legal and professional weaponry required
 
 ---
 
+## 💰 THE PRICING MASTERY & FRAMING GUIDE
+How you present your price is as important as the price itself. Use these framing techniques in your proposals.
+
+1.  **Investment, Not Cost:** Always refer to your fee as an "Investment."
+2.  **The Anchor Effect:** Present your highest-tier 'Elite' package first to anchor the price high.
+3.  **Tear-Sheet Pricing:** Provide a breakdown of value, not hours. "Strategic Consultation" is worth more than "Working for 2 hours."
+4.  **The 'Why Now' Incentive:** Offer a small implementation bonus for contracts signed within 48 hours to create ethical urgency.
+
+---
+
 ## 🚀 DEPLOYMENT PROTOCOL
 1.  **Never Use Base Files:** Always duplicate a template into your client's specific project directory.
 2.  **Strategic Customization:** Tailor every proposal to the specific pain points of the prospect.

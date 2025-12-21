@@ -37,6 +37,17 @@ To command premium rates, your portfolio must evoke authority and trust.
 
 ---
 
+## 💎 THE 'ZENITH' CASE STUDY BLUEPRINT
+Every project in your portfolio should follow this structural blueprint to maximize conversion.
+
+1.  **The Hook (The 'Big Why'):** Why did the client reach out? What was the existential threat or massive opportunity?
+2.  **The Interrogation (Discovery):** Detail the hard questions you asked that others missed.
+3.  **The Architecture (The 'How'):** High-level technical diagrams or logic flows.
+4.  **The Strike (Execution):** Bullet points of the most complex problems you solved.
+5.  **The Victory (Measurable ROI):** Hard numbers. "Reduced latency by 40%" or "Increased revenue by 15%."
+
+---
+
 ## 📈 STRATEGIC VALUE
 A portfolio is your 24/7 sales engine. When engineered correctly, it pre-sells the client on your expertise before you even speak.
 
